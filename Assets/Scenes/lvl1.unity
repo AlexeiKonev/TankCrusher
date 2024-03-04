@@ -3474,6 +3474,11 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 801118364}
     m_Modifications:
+    - target: {fileID: 218519099589333137, guid: 29e559902f99f2349814b43d0fe54c1c,
+        type: 3}
+      propertyPath: m_CullTransparentMesh
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 4971014254816295393, guid: 29e559902f99f2349814b43d0fe54c1c,
         type: 3}
       propertyPath: startingSize
